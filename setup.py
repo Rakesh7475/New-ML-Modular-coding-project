@@ -4,8 +4,8 @@ from typing import List
 PROJECT_NAME = "Machine Learning Project"
 VERSION = "0.0.1"
 DESCRIPTION = "This is our machine learning project inmodular coding"
-AUTHOR_NAME = "Shivan Kumar"
-AUTHOR_EMIL = "dummy@successanalytics.ai"
+AUTHOR_NAME = "Rakesh Patil"
+AUTHOR_EMIL = "rakeshpatil7475@gmail.com"
 
 REQUIREMENTS_FILE_NAME = "requirements.txt"
 
