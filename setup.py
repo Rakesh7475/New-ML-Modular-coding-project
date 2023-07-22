@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-#from typing import List
+from typing import List
 
 PROJECT_NAME = "Machine Learning Project"
 VERSION = "0.0.1"
